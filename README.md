@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱  I’m currently learning MERN and DS Algo<br><br>❓Ask me related to MERN stack and blockchain as well as android development<br><br>⚡ Fun fact: When coding, I sometimes end up in deep discussions with myself about the quirks of data structures or the intricacies of web development, turning my coding sessions into solo brainstorming sessions.<br><br><br><br><be>
+🌱  I’m currently learning MERN and DS Algo<br><br>❓Ask me related to MERN stack and blockchain as well as android development<br><br>⚡ Fun fact: When coding, I sometimes end up in deep discussions with myself about the quirks of data structures or the intricacies of web development, turning my coding sessions into solo brainstorming sessions.<br><br><be>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adinathraut) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ADINATHRAUT80) 
